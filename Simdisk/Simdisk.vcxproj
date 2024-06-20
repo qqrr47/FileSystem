@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FileSystem--OSCourseDesign-master\Simdisk.cpp" />
+    <ClCompile Include="Simdisk.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\FileSystem--OSCourseDesign-master\Simdisk.h" />
-    <ClInclude Include="..\..\FileSystem--OSCourseDesign-master\SystemInit.h" />
+    <ClInclude Include="SystemInit.h" />
+    <ClInclude Include="Simdisk.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

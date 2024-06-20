@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FileSystem--OSCourseDesign-master\Simdisk.cpp">
+    <ClCompile Include="Simdisk.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\FileSystem--OSCourseDesign-master\Simdisk.h">
+    <ClInclude Include="Simdisk.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\FileSystem--OSCourseDesign-master\SystemInit.h">
+    <ClInclude Include="SystemInit.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FileSystem--OSCourseDesign-master\shell.cpp">
+    <ClCompile Include="shell.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
